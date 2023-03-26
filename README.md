@@ -3,6 +3,9 @@ Encrypt plaintext and decrypt ciphertext using a key. Encryption/decryption occu
 
 To compile: run 'comipleall' from folder containing all relevant .c files.
 
+![top](https://user-images.githubusercontent.com/59400213/227791079-b5890723-31b7-449a-b450-2023dc65af6d.jpg)
+
+
 Example Usage:
 
 $ cat plaintext1
