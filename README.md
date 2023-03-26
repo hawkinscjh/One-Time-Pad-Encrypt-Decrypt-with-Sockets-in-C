@@ -1,7 +1,7 @@
 # One-Time-Pad-Encrypt-Decrypt-with-Sockets-in-C
-Encrypt plaintext and decrypt ciphertext using a key. Encryption occurs on an encryption separate server and decryption occurs on a decryption server.
+Encrypt plaintext and decrypt ciphertext using a key. Encryption/decryption occurs on respective encryption and decryption servers.
 
-To compile: run 'comipleall' from folder containing all relevant '.c' files.
+To compile: run 'comipleall' from folder containing all relevant .c files.
 
 Example Usage:
 
